@@ -10,5 +10,5 @@ https://youtu.be/7zHa5flGPjM
 
 After downloading prj on a system with Hadoop installed:
 just run these 2 commands since I've already created prj.jar :
-*export HADOOP_CLASSPATH=${JAVA_HOME}/lib/tools.jar
-*hadoop jar prj.jar hadoop.Login
+* export HADOOP_CLASSPATH=${JAVA_HOME}/lib/tools.jar
+* hadoop jar prj.jar hadoop.Login
