@@ -8,7 +8,6 @@ to understand the project and to learn how to execute the software.
 https://youtu.be/7zHa5flGPjM
 (This video does not yet contain the excution of R scripts)
 
-After downloading prj on a system with Hadoop installed:
-just run these 2 commands since I've already created prj.jar :
+After downloading prj folder on a system with Hadoop installed ; just run these 2 commands since I've already created prj.jar :
 * export HADOOP_CLASSPATH=${JAVA_HOME}/lib/tools.jar
 * hadoop jar prj.jar hadoop.Login
