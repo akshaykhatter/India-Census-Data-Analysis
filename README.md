@@ -5,3 +5,4 @@
 
 Please see this video to understand the project and to learn how to execute the software.
 https://youtu.be/7zHa5flGPjM
+(This video does not yet contain the excution of R scripts)
